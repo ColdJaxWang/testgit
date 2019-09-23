@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-        <title>登录界面</title>
+        <title>登录界面1111</title>
         <link type="text/css" rel="stylesheet" media="all" href="../assets/css/global.css" />
         <link type="text/css" rel="stylesheet" media="all" href="../assets/css/global_color.css" /> 
         <script type="text/javascript" src="../assets/js/jquery-3.4.1.min.js"></script>
